@@ -21,3 +21,5 @@ Key software, programmes, and applications used in this workflow:
 
 
 ![project workflow](https://github.com/tomeva18/MSc_Honeybee_Project/assets/156300328/38caa139-85c6-4862-9724-fb8c68799e2b)
+
+![bee-movie-cover](https://github.com/tomeva18/MSc_Honeybee_Project/assets/156300328/2ecd697b-743e-44bf-8107-487149f201af)
