@@ -12,3 +12,8 @@ variation in dance following. This project will involve learning how to use vari
 methodology which is applicable to many research fields in biology and medicine.
 
 Data for this study is from [Kennedy et al. (2021)]([url](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.15893))
+
+
+Key software, programmes, and applications used in this workflow:
+
+- 
