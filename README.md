@@ -17,3 +17,7 @@ Data for this study is from [Kennedy et al. (2021)]([url](https://onlinelibrary.
 Key software, programmes, and applications used in this workflow:
 
 - 
+
+
+
+![project workflow](https://github.com/tomeva18/MSc_Honeybee_Project/assets/156300328/38caa139-85c6-4862-9724-fb8c68799e2b)
