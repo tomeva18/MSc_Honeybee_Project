@@ -16,7 +16,15 @@ Data for this study is from [Kennedy et al. (2021)]([url](https://onlinelibrary.
 
 Key software, programmes, and applications used in this workflow, and the versions used:
 
-- 
+- Fasterq-dump/2.11.4
+- FastQC/0.11.9
+- Fastp/0.23.2
+- STAR/2.7
+- Picard/2.27.5
+- Samtools/1.9
+- GATK/4.1.9
+- lang/python/mamba/1.4.2
+
 
 
 
