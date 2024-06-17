@@ -1,4 +1,6 @@
-# MSc_Honeybee_Project
+## Transcriptomic Analysis of Honeybee Social Behaviour: Unravelling Genetic Determinants of Social and Private Information Utilisation![image](https://github.com/tomeva18/MSc_Honeybee_Project/assets/156300328/78080fb6-e7b3-4844-b82b-7c2fe24aa6eb)
+
+### MSc_Honeybee_Project
 
 For many organisms the genetic basis of behaviour is still barely understood. In the last decade, the 
 introduction of highthroughput transcriptome sequencing enabled researchers to identify genes of 
