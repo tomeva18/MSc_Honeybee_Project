@@ -1,4 +1,4 @@
-## Transcriptomic Analysis of Honeybee Social Behaviour: Unravelling Genetic Determinants of Social and Private Information Utilisation![image](https://github.com/tomeva18/MSc_Honeybee_Project/assets/156300328/78080fb6-e7b3-4844-b82b-7c2fe24aa6eb)
+## Transcriptomic Analysis of Honeybee Social Behaviour: Unravelling Genetic Determinants of Social and Private Information Utilisation
 
 ### MSc_Honeybee_Project
 
