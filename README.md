@@ -11,7 +11,9 @@ and to assess whether genetic differences among honeybees are linked to the obse
 variation in dance following. This project will involve learning how to use variant calling software, a 
 methodology which is applicable to many research fields in biology and medicine.
 
-Data for this study is from [Kennedy et al. (2021)]([url](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.15893))
+Data for this study is from [Kennedy et al. (2021)]([url](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.15893)). 
+All sequencing data has been deposited in the Sequencing Read Archive (SRA: PRJNA707149) of 
+the NCBI.
 
 
 Key software, programmes, and applications used in this workflow, and the versions used:
