@@ -4,8 +4,8 @@
 #SBATCH --partition=compute
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
-#SBATCH --cpus-per-task=8
-#SBATCH --mem-per-cpu=4G
+#SBATCH --cpus-per-task=1
+#SBATCH --mem-per-cpu=16G
 #SBATCH --account=bisc028524
 
 # Specify directories
